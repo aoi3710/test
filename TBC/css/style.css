@@ -1,0 +1,32 @@
+body{
+	color:#F00;
+}
+
+.header{
+	height:100px;
+	background-color:#00f;
+}
+
+.main{
+	border:1px solid #F00;
+	width:980px;
+	margin:0 auto;
+}
+
+.souseki{
+	float:left;
+}
+
+.text{
+	float:right;
+	width:550px;
+}
+
+p{
+	border:1px solid #000;
+}
+
+.footer{
+	height:100px;
+	background-color:#0f0;
+}
